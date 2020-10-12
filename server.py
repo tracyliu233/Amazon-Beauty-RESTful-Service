@@ -3,7 +3,6 @@ import psycopg2, psycopg2.extras
 import collections
 
 # DSN location of the AWS - RDS instance
-DB_DSN = "host=msan-beauty.cixuptbrrvfy.us-west-2.rds.amazonaws.com dbname=Beauty user=tracy password=lcy18611717064"
 
 app = Flask(__name__)
 

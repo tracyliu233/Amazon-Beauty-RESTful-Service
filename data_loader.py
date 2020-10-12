@@ -4,7 +4,6 @@ import json
 import psycopg2, psycopg2.extras
 
 
-DB_DSN = "host=msan-beauty.cixuptbrrvfy.us-west-2.rds.amazonaws.com dbname=Beauty user=tracy password=lcy18611717064"
 
 
 def transform_data(INPUT_DATA):

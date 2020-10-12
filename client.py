@@ -2,7 +2,6 @@ import httplib
 
 # SERVER = 'localhost:5000'
 
-SERVER = 'ec2-52-35-81-98.us-west-2.compute.amazonaws.com:5000'
 
 
 def get_counts_per_reviewername():
